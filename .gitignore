@@ -1,0 +1,49 @@
+# Node / TypeScript
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+# pnpm
+.pnpm-store/
+.pnpm-debug.log
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+.vscode-test/
+
+# Rust / Cargo
+target/
+**/*.rs.bk
+Cargo.lock
+
+# WASM
+*.wasm
+*.wat
+*.wast
+pkg/
+
+# Demo / Vite
+public/build/
+.vite/
+*.local
+
+# Images / exports
+*.png
+*.jpg
+*.webp
+
+# Temporary / cache
+.cache/
+.idea/

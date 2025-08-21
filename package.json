@@ -4,7 +4,9 @@
   "description": "Ultra-fast, next-generation heatmaps for the web — WebGPU, WebGL2, and Rust+WASM powered",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "pnpm -r run build",
+    "dev": "pnpm -r run dev",
+    "test": "pnpm -r run test"
   },
   "keywords": [],
   "author": "Parker Lee",
