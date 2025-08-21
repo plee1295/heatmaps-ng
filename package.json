@@ -1,0 +1,13 @@
+{
+  "name": "heatmaps-ng",
+  "version": "0.0.1",
+  "description": "Ultra-fast, next-generation heatmaps for the web — WebGPU, WebGL2, and Rust+WASM powered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Parker Lee",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.0"
+}
